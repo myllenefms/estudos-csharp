@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5ce88bd-b863-42c4-b238-541318a1ec77": {
+      "ProjectGuid": "a5ce88bd-b863-42c4-b238-541318a1ec77",
+      "DisplayName": "primeiroProjeto",
+      "ColorIndex": 0
+    },
+    "0ed308f9-6b3a-4b30-a7bb-503faace5767": {
+      "ProjectGuid": "0ed308f9-6b3a-4b30-a7bb-503faace5767",
+      "DisplayName": "prog2variáveis",
+      "ColorIndex": 1
+    },
+    "1c2af46c-68a5-431d-8e3e-38fa51e4dfb7": {
+      "ProjectGuid": "1c2af46c-68a5-431d-8e3e-38fa51e4dfb7",
+      "DisplayName": "prog3condicionais",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,15 @@
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\bin\Release\net6.0\prog3condicionais.exe
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\bin\Release\net6.0\prog3condicionais.deps.json
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\bin\Release\net6.0\prog3condicionais.runtimeconfig.json
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\bin\Release\net6.0\prog3condicionais.dll
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\bin\Release\net6.0\ref\prog3condicionais.dll
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\bin\Release\net6.0\prog3condicionais.pdb
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.csproj.AssemblyReference.cache
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.AssemblyInfoInputs.cache
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.AssemblyInfo.cs
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.csproj.CoreCompileInputs.cache
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.dll
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\ref\prog3condicionais.dll
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.pdb
+C:\AluraCSharp\aprendendoCSharp\prog3condicionais\obj\Release\net6.0\prog3condicionais.genruntimeconfig.cache

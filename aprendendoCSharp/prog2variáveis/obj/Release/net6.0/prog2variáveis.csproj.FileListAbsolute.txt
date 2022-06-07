@@ -1,0 +1,15 @@
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\bin\Release\net6.0\prog2variáveis.exe
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\bin\Release\net6.0\prog2variáveis.deps.json
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\bin\Release\net6.0\prog2variáveis.runtimeconfig.json
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\bin\Release\net6.0\prog2variáveis.dll
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\bin\Release\net6.0\ref\prog2variáveis.dll
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\bin\Release\net6.0\prog2variáveis.pdb
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.csproj.AssemblyReference.cache
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.AssemblyInfoInputs.cache
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.AssemblyInfo.cs
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.csproj.CoreCompileInputs.cache
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.dll
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\ref\prog2variáveis.dll
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.pdb
+C:\AluraCSharp\aprendendoCSharp\prog2variáveis\obj\Release\net6.0\prog2variáveis.genruntimeconfig.cache

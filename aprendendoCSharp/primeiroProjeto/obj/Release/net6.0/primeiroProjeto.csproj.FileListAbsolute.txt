@@ -1,0 +1,15 @@
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\bin\Release\net6.0\primeiroProjeto.exe
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\bin\Release\net6.0\primeiroProjeto.deps.json
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\bin\Release\net6.0\primeiroProjeto.runtimeconfig.json
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\bin\Release\net6.0\primeiroProjeto.dll
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\bin\Release\net6.0\ref\primeiroProjeto.dll
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\bin\Release\net6.0\primeiroProjeto.pdb
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.csproj.AssemblyReference.cache
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.AssemblyInfo.cs
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.dll
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\ref\primeiroProjeto.dll
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.pdb
+C:\AluraCSharp\aprendendoCSharp\primeiroProjeto\obj\Release\net6.0\primeiroProjeto.genruntimeconfig.cache
