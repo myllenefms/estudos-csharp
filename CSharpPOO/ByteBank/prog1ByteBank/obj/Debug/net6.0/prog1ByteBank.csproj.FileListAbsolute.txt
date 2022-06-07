@@ -1,0 +1,15 @@
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.csproj.AssemblyReference.cache
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.AssemblyInfoInputs.cache
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.AssemblyInfo.cs
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.csproj.CoreCompileInputs.cache
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\bin\Debug\net6.0\prog1ByteBank.exe
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\bin\Debug\net6.0\prog1ByteBank.deps.json
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\bin\Debug\net6.0\prog1ByteBank.runtimeconfig.json
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\bin\Debug\net6.0\prog1ByteBank.dll
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\bin\Debug\net6.0\ref\prog1ByteBank.dll
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\bin\Debug\net6.0\prog1ByteBank.pdb
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.dll
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\ref\prog1ByteBank.dll
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.pdb
+C:\AluraCSharp\CSharpPOO\ByteBank\prog1ByteBank\obj\Debug\net6.0\prog1ByteBank.genruntimeconfig.cache
